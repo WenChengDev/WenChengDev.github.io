@@ -6,4 +6,4 @@
 ### Email: sensente AT gmail DOT com
 
 # News about me
-## NOTHING
+## From now fighting for next stage of my life
