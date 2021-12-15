@@ -5,7 +5,7 @@
 ### Bachelor: Hefei University of Technology(合肥工业大学) Major: Computer Science (2018-2022)
 ### Postgraduate: Nanjing University(南京大学) Major: Computer Science (Pre-admission)
 
-## Research Interests: Computer Vision, Pattern Recognition
+## Research Interests: Wireless Aware, Pattern Recognition
 
 ## Honors:
 ### 2019-2020 National Scholarship(Undergraduate,0.2%)
