@@ -10,14 +10,14 @@
 ## Honors:
 ### 2019-2020 National Scholarship(Undergraduate, 0.2%)
 ### 2020-2021 National Scholarship(Undergraduate, 0.2%)
-### Outstanding Student of HFUT(2019,2020)
+### Outstanding Student of HFUT(2019, 2020)
 ### Extremely Outstanding Student of HFUT(2021, 1%)
 
 ## Projects:
-### Falling Detection System Based On Advanced Pattern Recognition Algorithm (Provincial Collegiate Innovation Project, 2019-2020, PI, Finished)
+### Falling Detection System Based On Advanced Pattern Recognition Algorithm (Provincial Collegiate Innovation Project, 2020-2021, PI, Finished)
 
 ## Internship:
-### ByteDance(Dataplatform, Tester, 3 months)
+### ```ByteDance(DataPlatform, Tester, 3 months)```
 
 ## Contact:
 ### Email: s1ensente AT gmail DOT com
