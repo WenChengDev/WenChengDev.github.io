@@ -1,23 +1,26 @@
 # Welcome to WenCheng's CV Page
-# Basic Information   
+<!-- # Basic Information    -->
 ## Name:WenCheng(程文)
 ## Educational Background:
 ### Bachelor: Hefei University of Technology(合肥工业大学) Major: Computer Science (2018-2022)
-### Postgraduate: Nanjing University(南京大学) Major: Computer Science (Pre-admission)
+### Postgraduate: Nanjing University(南京大学) Major: Computer Science (2022-now)
 
-## Research Interests: Wireless Aware, Pattern Recognition
+## Research Interests: 
+### Wireless Aware, Pattern Recognition
+
+## Papers:
+### Fighting for this
 
 ## Honors:
-### 2019-2020 National Scholarship(Undergraduate, 0.2%)
-### 2020-2021 National Scholarship(Undergraduate, 0.2%)
-### Outstanding Student of HFUT(2019, 2020)
-### Extremely Outstanding Student of HFUT(2021, 1%)
+### 2019-2020 National Scholarship
+### 2020-2021 National Scholarship
+### Graduation with honor: Outstanding Graduates of Anhui Province(Undergraduate, 2022)
 
 ## Projects:
 ### Falling Detection System Based On Advanced Pattern Recognition Algorithm (Provincial Collegiate Innovation Project, 2020-2021, PI, Finished)
 
 ## Internship:
-### ```ByteDance(DataPlatform, Tester, 3 months)```
+### ```ByteDance(DataPlatform, Tester, 5 months)```
 
 ## Contact:
 ### Email: s1ensente AT gmail DOT com
