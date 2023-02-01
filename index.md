@@ -22,5 +22,8 @@
 ## Internship:
 ### ```ByteDance(DataPlatform, Tester, 5 months)```
 
+## TA:
+### Computer Architecture(NJU, Spring 2023)
+
 ## Contact:
 ### Email: s1ensente AT gmail DOT com
