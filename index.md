@@ -43,3 +43,6 @@ I had a wonderful intern experience in Bytedance from Jan.2022 to May.2022. I'm 
 
 ## Page views for s
 <a href="https://clustrmaps.com/site/1bvoc"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=UNxCcqiiBlnt2_bl4VGgxLssty1FtXO_Objqan44SSQ&cl=ffffff" /></a>
+
+## Page views for latex
+<a href="https://clustrmaps.com/site/1bvoe"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=T-g3HCE1cWG1_y6FZmrIJYRAue_2F7A0ev8MPFrNNDs&cl=ffffff" /></a>
