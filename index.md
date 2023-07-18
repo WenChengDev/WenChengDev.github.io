@@ -8,8 +8,8 @@ I'm an M.Sc student at Nanjing University and a member of the LANDS group, advis
 My research interests are device-free and wireless sensing. Part of our related works has been accepted by ICASSP 2023. If you have any interesting ideas, please feel free to contact me.
 
 I had a wonderful intern experience in Bytedance from Jan.2022 to May.2022. I'm also the teaching assistant for computer architecture in Nanjing University's 2023 Spring semester.
-<!--
-## Name:WenCheng(程文)
+
+<!--## Name:WenCheng(程文)
 ## Educational Background:
 ### Bachelor: Hefei University of Technology(合肥工业大学) Major: Computer Science (2018-2022)
 ### Postgraduate: Nanjing University(南京大学) Major: Computer Science (2022-now)
@@ -32,8 +32,8 @@ I had a wonderful intern experience in Bytedance from Jan.2022 to May.2022. I'm 
 ### ```ByteDance(DataPlatform, Tester, 5 months)```
 
 ## TA:
-### Computer Architecture(NJU, Spring 2023)
--->
+### Computer Architecture(NJU, Spring 2023)-->
+
 
 ## Contact:
 ### Email: wcheng@smail.nju.edu.cn
