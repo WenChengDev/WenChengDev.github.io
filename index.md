@@ -49,3 +49,6 @@ I had a wonderful intern experience in Bytedance from Jan.2022 to May.2022. I'm 
 
 ## Page views for Linkendin
 <a href="https://clustrmaps.com/site/1bvoq"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=dw91v8PmGdDqELLUtowRmqAj3h3QzSa1VDXy3DigiEQ&cl=ffffff" /></a>
+
+## Page views for Zhihu
+<a href="https://clustrmaps.com/site/1bvor"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=D0VmU-ndQtZ-j48MgjysHB9LLRK3B5xB-bj0zCXLJns&cl=ffffff" /></a>
